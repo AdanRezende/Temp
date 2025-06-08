@@ -1,5 +1,7 @@
-[{
-  CARD_NAME: "aaaa",
-  CARD_NUMBER: 1234,
-  CARD_STYLE: "#FFF"
-}];
+{
+  data: [{
+    CARD_NAME: "aaaa",
+    CARD_NUMBER: 1234,
+    CARD_STYLE: "#FFF"
+  }]
+}
